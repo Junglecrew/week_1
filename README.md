@@ -1,3 +1,3 @@
-# week_1
-week_1 Homework
+# week 1
+week_1.Homework
 
